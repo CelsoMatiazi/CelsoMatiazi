@@ -32,7 +32,11 @@
    
    ![Snake animation](https://github.com/CelsoMatiazi/CelsoMatiazi/blob/output/github-contribution-grid-snake.svg)
    
+   [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/album/6GZ6mxaHF0YIBydrugp6ck)
+  
 </div>
+ 
+
   
   
 
