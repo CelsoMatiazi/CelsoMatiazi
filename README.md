@@ -25,10 +25,13 @@
 ##
   
   <div> 
+    <a href="https://open.spotify.com/album/6GZ6mxaHF0YIBydrugp6ck?si=w4BS9D65QwO0f5jVCNFMlA&dl_branch=1" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%230077B5?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
   <a href="https://www.youtube.com/channel/UCPu9BTihq0o4OgLEZRCH70w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/celsomatiazi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:celsomatiazi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/celso-ricardi-9805b2198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   
+  
    
    ![Snake animation](https://github.com/CelsoMatiazi/CelsoMatiazi/blob/output/github-contribution-grid-snake.svg)
    
